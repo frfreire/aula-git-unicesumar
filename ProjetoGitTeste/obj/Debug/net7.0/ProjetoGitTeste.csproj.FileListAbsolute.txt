@@ -1,0 +1,15 @@
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\bin\Debug\net7.0\ProjetoGitTeste.exe
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\bin\Debug\net7.0\ProjetoGitTeste.deps.json
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\bin\Debug\net7.0\ProjetoGitTeste.runtimeconfig.json
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\bin\Debug\net7.0\ProjetoGitTeste.dll
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\bin\Debug\net7.0\ProjetoGitTeste.pdb
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\obj\Debug\net7.0\ProjetoGitTeste.csproj.AssemblyReference.cache
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\obj\Debug\net7.0\ProjetoGitTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\obj\Debug\net7.0\ProjetoGitTeste.AssemblyInfoInputs.cache
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\obj\Debug\net7.0\ProjetoGitTeste.AssemblyInfo.cs
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\obj\Debug\net7.0\ProjetoGitTeste.csproj.CoreCompileInputs.cache
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\obj\Debug\net7.0\ProjetoGitTeste.dll
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\obj\Debug\net7.0\refint\ProjetoGitTeste.dll
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\obj\Debug\net7.0\ProjetoGitTeste.pdb
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\obj\Debug\net7.0\ProjetoGitTeste.genruntimeconfig.cache
+C:\Users\brici\Projetos\04-Unicesumar\git\aula-git-unicesumar\ProjetoGitTeste\obj\Debug\net7.0\ref\ProjetoGitTeste.dll
