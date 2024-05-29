@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "projeto-teste-git/1.0.0": {
+        "runtime": {
+          "projeto-teste-git.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projeto-teste-git/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
